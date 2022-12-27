@@ -1,5 +1,5 @@
 {
-  "name": "mindkomm/timber-integration-woocommerce",
+  "name": "ffaltin/timber-integration-woocommerce",
   "type": "library",
   "description": "WooCommerce integration for Timber.",
   "keywords": [
@@ -22,7 +22,8 @@
     "docs": "https://timber.github.io/docs/integrations/woocommerce"
   },
   "require": {
-    "php": "8.*"
+    "php": "8.*",
+    "ffaltin/timber-integration-woocommerce": "dev-master"
   },
   "autoload": {
     "psr-4": {
